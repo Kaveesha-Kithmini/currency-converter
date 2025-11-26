@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #0a1a3c;
+  color: #fff;
+  font-family: 'Segoe UI', 'Roboto', 'Arial', sans-serif;
+}
+
+a, a:visited {
+  color: #3a7bd5;
+} 
