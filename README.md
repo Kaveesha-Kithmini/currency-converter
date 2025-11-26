@@ -34,9 +34,9 @@
 
 ## 🌟 Overview
 
-**Currency Converter & Exchange Rate Lookup** is a modern, responsive web application that provides real-time currency conversion and exchange rate information for multiple currencies worldwide. Built with React and TypeScript, it offers a seamless user experience with interactive charts, live rate updates, and user authentication features.
+Currency Converter & Exchange Rate Lookup is a modern, responsive web application that provides real-time currency conversion and exchange rate information for multiple currencies worldwide. Built with React and TypeScript, it offers a seamless user experience with interactive charts, live rate updates, and user authentication features.
 
-Whether you're a traveler, investor, or business professional, this application helps you stay informed about currency exchange rates with accurate, up-to-date information.
+This module is part of the AeroX Airport Services Management Web Application, a comprehensive platform designed to streamline airport operations and enhance passenger experience. Whether you're a traveler, investor, or business professional, this application helps you stay informed about currency exchange rates with accurate, up-to-date information.
 
 ---
 
